@@ -32,7 +32,7 @@ Windows XP系统关闭防火墙，否则网关无法与之连接：
 
 intnet1:
 
-![](img/Windows XP-1网络拓扑.png)
+![](img/WindowsXP-1网络拓扑.png)
 
 ![](img/Kali-1网络拓扑.png)
 
@@ -40,7 +40,7 @@ intnet2:
 
 ![](img/Debain10-2网络拓扑.png)
 
-![](img/Windows XP-2网络拓扑.png)
+![](img/WindowsXP-2网络拓扑.png)
 
 网关：
 
